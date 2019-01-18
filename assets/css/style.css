@@ -1,0 +1,13 @@
+body {
+    font-family: 'Special Elite', cursive;
+
+}
+
+.jumbotron {
+    background: url(../images/pow-star.png);
+    padding: 0px;
+}
+
+#form-card, #data-card {
+    background: #ff9999;
+}
